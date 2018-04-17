@@ -64,7 +64,7 @@
             <ul>
                 <li><a href="#top" id="top-link" class="skel-layers-ignoreHref"><span class="icon fa-home">Introduction</span></a></li>
                 <li><a href="#experience" id="experience-link" class="skel-layers-ignoreHref"><span class="icon fa-th">Expériences professionnelle</span></a></li>
-                <li><a href="#portfolio" id = portfolio-link" class="skel-layers-ignoreHref"><span class="icon fa-book"</a>Portfolio</a></li>
+                <li><a href="#portfolio" id = "portfolio-link" class="skel-layers-ignoreHref"><span class="icon fa-book">Portfolio</span></a></li>
                 <li><a href="#about" id="about-link" class="skel-layers-ignoreHref"><span class="icon fa-user">A propos de moi</span></a></li>
                 <li><a href="#contact" id="contact-link" class="skel-layers-ignoreHref"><span class="icon fa-envelope">Contact</span></a></li>
 
