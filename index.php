@@ -199,7 +199,7 @@
                 <div class="6u 12u$(mobile)">
                     <article class="item">
                         <h3>Mes voyages</h3>
-                        <a href="baptistefessard.fr/mesvoyages" class="image fit" target="_blank"><img src="images/mesvoyages.JPG" alt="" /></a>
+                        <a href="/mesvoyages" class="image fit" target="_blank"><img src="images/mesvoyages.JPG" alt="" /></a>
                         <header>
                             <p> Affiche sur une carte les photos des pays et villes que j'ai visité lors de mes différents voyages. <br/>
                                 <strong>langage utilisé : PHP, JavaScript </strong></p>
