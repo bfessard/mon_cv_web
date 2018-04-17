@@ -63,7 +63,8 @@
             -->
             <ul>
                 <li><a href="#top" id="top-link" class="skel-layers-ignoreHref"><span class="icon fa-home">Introduction</span></a></li>
-                <li><a href="#portfolio" id="portfolio-link" class="skel-layers-ignoreHref"><span class="icon fa-th">Expériences professionnelle</span></a></li>
+                <li><a href="#experience" id="experience-link" class="skel-layers-ignoreHref"><span class="icon fa-th">Expériences professionnelle</span></a></li>
+                <li><a href="#portfolio" id = portfolio-link" class="skel-layers-ignoreHref"><span class="icon fa-book"</a>Portfolio</a></li>
                 <li><a href="#about" id="about-link" class="skel-layers-ignoreHref"><span class="icon fa-user">A propos de moi</span></a></li>
                 <li><a href="#contact" id="contact-link" class="skel-layers-ignoreHref"><span class="icon fa-envelope">Contact</span></a></li>
 
@@ -99,28 +100,28 @@
 
             <header>
                 <h2 class="alt">Bienvenue !</h2>
-                <p>Technicien de laboratoire depuis 2012, Je souhaite aujourd'hui me reconvertir dans le secteur de l'informatique.<br/> Intégrant une école en alternance en Septembre 2018,le
+                <p>Technicien de laboratoire depuis 2012, je souhaite aujourd'hui me reconvertir dans le secteur de l'informatique.<br/> Intégrant une école en alternance en Septembre 2018,le
                     <a href="https://www.cesi-alternance.fr/formation/informatique_numerique/infcdl-developpeur_informatique_en_alternance" target="_blank">CESI</a>, je recherche actuellement un poste
                     en tant que développeur.
                     <br/>  </p>
             </header>
 
             <footer>
-                <a href="#portfolio" class="button scrolly">Mon expérience</a>
+                <a href="#experience" class="button scrolly">Mon expérience</a>
             </footer>
 
         </div>
     </section>
 
-    <!-- Portfolio -->
-    <section id="portfolio" class="two">
+    <!-- Expérience -->
+    <section id="experience" class="two">
         <div class="container">
 
             <header>
                 <h2>Expériences professionnelle</h2>
             </header>
 
-            <p>Mes différentes expériences m'ont permis d'obtenir une maitrise des différentes étapes de développement d'un projet.</p>
+            <p>Mes expériences m'ont permis d'obtenir une maitrise des différentes étapes de développement d'un projet.</p>
 
             <div class="row">
                 <div class="4u 12u$(mobile)">
@@ -160,7 +161,7 @@
 
             <h2>Stages</h2>
             <div class="row">
-                <div class="6u 10u$(mobile)">
+                <div class="6u 12u$(mobile)">
                     <article class="item">
                         <h4>2012</h4>
                         <a href="http://www.sacolor.fr/" class="image fit" target="_blank"><img src="images/SACOLOR.JPG" alt="" /></a>
@@ -180,19 +181,50 @@
                         </header>
                     </article>
                 </div>
-
-
-
             </div>
 
         </div>
+
         <footer>
             <a href="download/CV%20FESSARD%20BAPTISTE.pdf" class="button">Obtenir mon CV</a>
         </footer>
     </section>
+    <!-- Portfolio -->
+    <section id="portfolio" class="three">
+        <div class="container">
+            <header>
+                <h2>Portfolio</h2>
+            </header>
+            <div class="row">
+                <div class="6u 12u$(mobile)">
+                    <article class="item">
+                        <h3>Mes voyages</h3>
+                        <a href="baptistefessard.fr/mesvoyages" class="image fit" target="_blank"><img src="images/mesvoyages.JPG" alt="" /></a>
+                        <header>
+                            <p> Affiche sur une carte les photos des pays et villes que j'ai visité lors de mes différents voyages. <br/>
+                                <strong>langage utilisé : PHP, JavaScript </strong></p>
+                        </header>
+                    </article>
+                </div>
+                <div class="6u 12u$(mobile)">
+                    <article class="item">
+                        <h3>Outil de commande </h3>
+                        <a href="download/Commande%20fourniture%20v4.xlsm" class="image fit" target="_blank"><img src="images/Excel.png" alt="" /></a>
+                        <header>
+                            <p>Développé lors de mon expérience chez mader, cet outil génère et automatise les commandes de fournitures pour les différents laboratoires. <br/>
+                            <strong>langage utilisé : Visual Basic for Application </strong> </p>
+                        </header>
+
+                    </article>
+
+                </div>
+            </div>
+        </div>
+
+    </section>
 
     <!-- About Me -->
-    <section id="about" class="three">
+    <section id="about" class="four">
         <div class="container">
 
             <header>
@@ -239,7 +271,7 @@
     <!-- world map voyage-->
 
 				<!-- Contact -->
-					<section id="contact" class="four">
+					<section id="contact" class="five">
 						<div class="container">
 
 							<header>

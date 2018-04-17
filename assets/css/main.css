@@ -233,7 +233,7 @@
 
 	.row:after, .row:before {
 		content: '';
-		display: block;
+		display: block ;
 		clear: both;
 		height: 0;
 	}
@@ -1593,7 +1593,7 @@
 	}
 
 		h1 a strong, h2 a strong, h3 a strong, h4 a strong, h5 a strong, h6 a strong {
-			color: #333;
+			color: #1C2022;
 		}
 
 	h2 {
@@ -1606,7 +1606,7 @@
 		}
 
 			h2.alt strong {
-				color: #666;
+				color: #1C2022;
 			}
 
 	h3 {
@@ -1627,7 +1627,7 @@
 
 	strong, b {
 		font-weight: 300;
-		color: #666;
+		color: #1C2022;
 	}
 
 	em, i {
@@ -2205,7 +2205,11 @@
 			}
 
 			#main > section.four {
-				background-color: #e8edec;
+				  background-color: #f5fafa;
+			  }
+
+			#main > section.five {
+			background-color: #e8edec;
 			}
 
 /* Wide */
