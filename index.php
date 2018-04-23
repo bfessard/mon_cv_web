@@ -286,8 +286,8 @@
                                 </div>
                                 <div class="2u 12u$(mobile)">
                                     <article class="item">
-                                        <a href="callto:0652122675" class="icon fa-phone"></a></br>
-                                        <a href="callto:0652122675">06.52.12.26.75</a>
+                                        <a href="tel:0652122675" class="icon fa-phone"></a></br>
+                                        <a href="tel:0652122675">06.52.12.26.75</a>
                                     </article>
                                 </div>
                                 <div class="3u 12u$(mobile)">
