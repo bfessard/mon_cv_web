@@ -42,7 +42,7 @@
         <div id="logo">
             <span class="image avatar48"><img src="images/avatar.jpg" alt="" /></span>
             <h1 id="title">Baptiste FESSARD</h1>
-            <p>Analyste programmeur</p>
+            <p>Développeur informatique</p>
             <p><?php echo $age.' ans';?></p>
         </div>
 
