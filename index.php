@@ -100,10 +100,7 @@
 
             <header>
                 <h2 class="alt">Bienvenue !</h2>
-                <p>Technicien de laboratoire depuis 2012, je souhaite aujourd'hui me reconvertir dans le secteur de l'informatique.<br/> Intégrant une école en alternance en Septembre 2018,le
-                    <a href="https://www.cesi-alternance.fr/formation/informatique_numerique/infcdl-developpeur_informatique_en_alternance" target="_blank">CESI</a>, je recherche actuellement un poste
-                    en tant que développeur.
-                    <br/>  </p>
+                <p>Technicien de laboratoire depuis 2012, je souhaite aujourd'hui me reconvertir dans le secteur de l'informatique.</p>
             </header>
 
             <footer>
